@@ -1,8 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/exocr63T)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11529873)
+
 # Site de Indústria de Vestuário com Django
 
 Este repositório contém um projeto de site desenvolvido com Django, focado no tema da indústria de vestuário. O site utiliza tecnologias como Python, Django, HTML5, CSS3 e Bootstrap 5 para criar uma plataforma atrativa e funcional relacionada ao mundo da moda e vestuário.
+
+## Sobre o Site
+
+Criado para que as pessoas consigam se inspirar e se mostrar do jeito que são!
 
 ## Pré-requisitos
 
@@ -15,8 +18,8 @@ Este repositório contém um projeto de site desenvolvido com Django, focado no 
 1. Clone este repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/SenaiMG/desenvolvimento-web-Nixx693.git
+   cd desenvolvimento-web-Nixx693
    ```
 2. Crie um ambiente virtual e ative-o:
 
